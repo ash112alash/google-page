@@ -1,0 +1,184 @@
+html{
+    height: 100%;
+    min-height: 100%;
+}
+
+.navbar{
+    margin-left: 1100px;
+}
+
+a{
+    text-decoration: none;
+    color: gray;
+}
+
+#gmail:hover{
+    color: rgb(75, 75, 75);
+    border-bottom: 1px solid rgb(75, 75, 75);
+}
+
+#images:hover{
+    color: rgb(75, 75, 75);
+    border-bottom: 1px solid rgb(75, 75, 75);
+}
+
+#sign-in:hover{
+    color: gray;
+    border-bottom: 1px solid rgb(75, 75, 75);
+}
+
+#logo{
+    margin-left: 39%;
+    position: relative;
+    top: 100px;
+}
+#search:focus{
+    outline: none;
+}
+
+#search{
+    margin-left: 30%;
+    margin-top: 10.8%;
+    width: 500px;
+    height: 35px;
+    border-radius: 20px;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+}
+
+button{
+    margin-top: 30px;
+    border: none;
+}
+
+button:hover{
+    border: 1px solid gray;
+    border-radius: 6px;
+}
+
+#google-search{
+    margin-left: 500px;
+    height: 30px;
+    width: 130px;
+}
+
+#lucky{
+    margin-left: 30px;
+    height: 30px;
+    width: 130px;
+}
+
+#arabic{
+    color: blue;
+}
+
+#arabic:hover{
+    border-bottom: 1px solid blue;
+}
+
+p{
+    margin-left: 43%;
+}
+
+.footer{
+    margin-top: 153px;
+    font-size: 18px;
+    background-color: rgb(240, 240, 240);
+}
+
+.foot{
+    display: inline;
+    padding-left: 56%;
+}
+
+#privacy:hover{
+    border-bottom: 1px solid gray;
+    color: black;
+}
+#terms:hover{
+    border-bottom: 1px solid black;
+    color: black;
+}
+#setting:hover{
+    border-bottom: 1px solid black;
+    color: black;
+}
+
+#advert:hover{
+    border-bottom: 1px solid black;
+    color: black;
+}
+#buisness:hover{
+    border-bottom: 1px solid black;
+    color: black;
+}
+#about:hover{
+    border-bottom: 1px solid black;
+    color: black;
+}
+#how-it-works:hover{
+    border-bottom: 1px solid black;
+    color: black;
+}
+
+
+#gmail{
+    margin-right: 10px;
+}
+
+#images{
+    margin-right: 10px;
+}
+
+#menu{
+    margin-right: 10px;
+    position: relative;
+    top: 9px;
+}
+
+#advert{
+    margin-right: 10px;
+}
+
+#buisness{
+    margin-right: 10px;
+}
+
+#about{
+    margin-right: 10px;
+}
+
+#privacy{
+    margin-right: 10px;
+}
+
+#terms{
+    margin-right: 10px;
+}
+
+#setting{
+    margin-right: 10px;
+}
+
+
+.footer{
+    border-style: solid;
+    border-width: 3px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-color: rgba(197, 197, 197, 0.600);
+}
+
+.footer-border{
+    border-style: solid;
+    border-width: 3px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-color: rgba(197, 197, 197, 0.600);
+}
